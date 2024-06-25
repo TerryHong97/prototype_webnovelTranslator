@@ -1,0 +1,240 @@
+[
+    {
+        "line": "[오오..., 아주 좋구나. 훌륭해!]",
+        "Speaker-information": "한스",
+        "Speaker-intent": "자신의 성과에 만족함.",
+        "Tone&Emotion": "만족한, 칭찬하는",
+        "Translation-notes": "만족감과 칭찬의 어조를 유지할 것."
+    },
+    {
+        "line": "[...대단하군.]",
+        "Speaker-information": "한스",
+        "Speaker-intent": "발견한 귀금속들의 양에 감탄함.",
+        "Tone&Emotion": "감탄하는, 놀란",
+        "Translation-notes": "감탄과 놀라움을 담아 번역할 것."
+    },
+    {
+        "line": "'하지만 이젠 전부 내 것이지.'",
+        "Speaker-information": "한스",
+        "Speaker-intent": "모든 귀금속이 이제 자신의 것임을 내심 기뻐함.",
+        "Tone&Emotion": "기뻐하는, 만족한",
+        "Translation-notes": "기쁨과 만족을 담아 번역할 것."
+    },
+    {
+        "line": "'오늘은 소고기 파티다.'",
+        "Speaker-information": "한스",
+        "Speaker-intent": "성공을 축하하며 소고기 파티를 계획함.",
+        "Tone&Emotion": "기대하는, 즐거운",
+        "Translation-notes": "기대와 즐거움을 담아 번역할 것."
+    },
+    {
+        "line": "\"한스라.... 흔한 이름이군.\"",
+        "Speaker-information": "알 수 없는 인물",
+        "Speaker-intent": "한스라는 이름에 대한 평범한 반응을 보임.",
+        "Tone&Emotion": "평범한, 무심한",
+        "Translation-notes": "평범하고 무심한 어조를 유지할 것."
+    },
+    {
+        "line": "'네놈은... 누구냐?'",
+        "Speaker-information": "한스",
+        "Speaker-intent": "상대의 정체를 궁금해 함.",
+        "Tone&Emotion": "궁금한, 의심스러운",
+        "Translation-notes": "궁금함과 의심을 담아 번역할 것."
+    },
+    {
+        "line": "'내 이름은 한스다'",
+        "Speaker-information": "한스",
+        "Speaker-intent": "자신의 이름을 밝힘.",
+        "Tone&Emotion": "단호한, 자신감 있는",
+        "Translation-notes": "단호하고 자신감 있는 어조를 유지할 것."
+    },
+    {
+        "line": "\"쭛, 마지막까지 도움이 안 되는군.\"",
+        "Speaker-information": "위라크",
+        "Speaker-intent": "상황에 대한 불만을 표현함.",
+        "Tone&Emotion": "불만스러운, 짜증난",
+        "Translation-notes": "불만과 짜증을 담아 번역할 것."
+    },
+    {
+        "line": "\"가만히 있을 수는 없겠지.\"",
+        "Speaker-information": "위라크",
+        "Speaker-intent": "행동을 취해야 함을 결심함.",
+        "Tone&Emotion": "결의에 찬, 단호한",
+        "Translation-notes": "결의와 단호함을 담아 번역할 것."
+    },
+    {
+        "line": "\"한스...\"",
+        "Speaker-information": "뮬로 브로코슬락",
+        "Speaker-intent": "한스에 대해 생각에 잠김.",
+        "Tone&Emotion": "생각에 잠긴, 신중한",
+        "Translation-notes": "생각에 잠긴 어조를 유지할 것."
+    },
+    {
+        "line": "\"어이쿠, 참 대단하십니다. 어떻게 매번 이렇게 쉽게 잡아 오시는지....\"",
+        "Speaker-information": "중년의 남자",
+        "Speaker-intent": "한스의 능력에 대해 감탄함.",
+        "Tone&Emotion": "감탄하는, 놀란",
+        "Translation-notes": "감탄과 놀라움을 담아 번역할 것."
+    },
+    {
+        "line": "\"하하하, 잠깐 둘러보다가 보여서 얼른 잡았습니다. 그럼 잘 부탁드립니다.\"",
+        "Speaker-information": "한스",
+        "Speaker-intent": "자신의 행동을 겸손하게 설명함.",
+        "Tone&Emotion": "겸손한, 유쾌한",
+        "Translation-notes": "겸손한 어조와 유쾌함을 유지할 것."
+    },
+    {
+        "line": "\"걱정 마십쇼. 바로 준비하겠습니다.\"",
+        "Speaker-information": "중년의 남자",
+        "Speaker-intent": "한스의 부탁을 수락함.",
+        "Tone&Emotion": "확신에 찬, 친절한",
+        "Translation-notes": "확신과 친절한 어조를 유지할 것."
+    },
+    {
+        "line": "\"아저씨! 오늘도 고기에요? 와아~!\"",
+        "Speaker-information": "아론",
+        "Speaker-intent": "고기를 먹는 것에 대한 기쁨을 표현함.",
+        "Tone&Emotion": "기쁜, 신나는",
+        "Translation-notes": "기쁨과 신남을 담아 번역할 것."
+    },
+    {
+        "line": "\"고생하셨어요, 아저씨.\"",
+        "Speaker-information": "디아나",
+        "Speaker-intent": "한스의 노고를 치하함.",
+        "Tone&Emotion": "감사하는, 친절한",
+        "Translation-notes": "감사와 친절한 어조를 유지할 것."
+    },
+    {
+        "line": "\"월, 별거 아냐. 물 고맙다.\"",
+        "Speaker-information": "한스",
+        "Speaker-intent": "디아나의 감사에 겸손하게 답함.",
+        "Tone&Emotion": "겸손한, 고마워하는",
+        "Translation-notes": "겸손과 고마움을 담아 번역할 것."
+    },
+    {
+        "line": "\"저기, 아저씨. 아직 목마르세요? 피 드릴까요?\"",
+        "Speaker-information": "디아나",
+        "Speaker-intent": "한스의 목마름을 걱정하며 피를 제공하려 함.",
+        "Tone&Emotion": "걱정하는, 조심스러운",
+        "Translation-notes": "걱정과 조심스러움을 담아 번역할 것."
+    },
+    {
+        "line": "\"괜찮아, 괜찮아. 이번에 배 터지게 먹었거든.\"",
+        "Speaker-information": "한스",
+        "Speaker-intent": "디아나의 걱정을 덜어주려 함.",
+        "Tone&Emotion": "안심시키는, 유쾌한",
+        "Translation-notes": "안심시키는 어조와 유쾌함을 유지할 것."
+    },
+    {
+        "line": "'그러고 보니 로실리카는 못 본 것 같은데.'",
+        "Speaker-information": "한스",
+        "Speaker-intent": "로실리카의 행방을 궁금해 함.",
+        "Tone&Emotion": "궁금한, 신경 쓰이는",
+        "Translation-notes": "궁금함과 신경 쓰임을 담아 번역할 것."
+    },
+    {
+        "line": "'뭐, 이젠 다시 보지 않는 게 서로에게 좋겠지. 도시에서 죽었다고 생각해 주면 좋으련만!'",
+        "Speaker-information": "한스",
+        "Speaker-intent": "로실리카와 다시 마주치지 않기를 바람.",
+        "Tone&Emotion": "희망하는, 안심하는",
+        "Translation-notes": "희망과 안심을 담아 번역할 것."
+    },
+    {
+        "line": "\"고기 구울 준비 다 됐습니다.\"",
+        "Speaker-information": "발터",
+        "Speaker-intent": "고기 구울 준비가 완료되었음을 알림.",
+        "Tone&Emotion": "알리는, 중립적인",
+        "Translation-notes": "알림의 어조를 유지할 것."
+    },
+    {
+        "line": "\"와아~ 아저씨! 누나! 빨리빨리~!\"",
+        "Speaker-information": "아론",
+        "Speaker-intent": "기쁨과 흥분을 표현함.",
+        "Tone&Emotion": "기쁜, 흥분한",
+        "Translation-notes": "기쁨과 흥분을 담아 번역할 것."
+    },
+    {
+        "line": "\"흐음.... 결국 뭐 하나 확실한 게 없군.\"",
+        "Speaker-information": "소년",
+        "Speaker-intent": "상황에 대한 실망을 표현함.",
+        "Tone&Emotion": "실망한, 불만스러운",
+        "Translation-notes": "실망과 불만을 담아 번역할 것."
+    },
+    {
+        "line": "\"그럼 어디 직접 얼굴이나 한번 볼까? 감히 누가 우리 영역에서 이딴 짓을 했는지.\"",
+        "Speaker-information": "오보르 브로코슬락",
+        "Speaker-intent": "직접 상대를 확인하겠다는 결심을 함.",
+        "Tone&Emotion": "결의에 찬, 도전적인",
+        "Translation-notes": "결의와 도전적인 어조를 유지할 것."
+    },
+    {
+        "line": "[진혈, 인가?]",
+        "Speaker-information": "한스",
+        "Speaker-intent": "상대의 정체를 추측함.",
+        "Tone&Emotion": "궁금한, 신중한",
+        "Translation-notes": "궁금함과 신중함을 담아 번역할 것."
+    },
+    {
+        "line": "\"오호... 누군가 했는데, 이 정도 죽음의 기운이라니, 리치인가?\"",
+        "Speaker-information": "오보르 브로코슬락",
+        "Speaker-intent": "상대의 정체를 추측함.",
+        "Tone&Emotion": "궁금한, 흥미로운",
+        "Translation-notes": "궁금함과 흥미로움을 담아 번역할 것."
+    },
+    {
+        "line": "\"내 이름은 오보르. 브로코슬락 클랜의 진혈이다. 넌 '역천의 서약' 소속인가? 그래서 우리가 가진 파편을 노린 거냐?\"",
+        "Speaker-information": "오보르 브로코슬락",
+        "Speaker-intent": "자신의 정체를 밝히고 상대의 의도를 물음.",
+        "Tone&Emotion": "단호한, 조사하는",
+        "Translation-notes": "단호함과 조사하는 어조를 유지할 것."
+    },
+    {
+        "line": "[그래. 네놈들이 우리가 가진 '불사왕의 파편'을 노린다는 정보를 입수하고 먼저 선수를 쳤지. 언제까지 숨길 수 있을 거라 생각했나?]",
+        "Speaker-information": "한스",
+        "Speaker-intent": "거짓으로 상대를 혼란스럽게 함.",
+        "Tone&Emotion": "뻔뻔한, 도전적인",
+        "Translation-notes": "뻔뻔하고 도전적인 어조를 유지할 것."
+    },
+    {
+        "line": "\"놈들이 숨어있던 마을이 누군가에게 공격받았다고 하던데. 네놈이 빼앗은 건 아니고?\"",
+        "Speaker-information": "오보르 브로코슬락",
+        "Speaker-intent": "한스가 마을을 공격했는지 의심함.",
+        "Tone&Emotion": "의심스러운, 조사하는",
+        "Translation-notes": "의심과 조사하는 어조를 유지할 것."
+    },
+    {
+        "line": "[하! 서로 지향하는 바가 달랐을 뿐이다. 그렇다면 힘으로 우열을 가릴 수밖에 없지 않은가?]",
+        "Speaker-information": "한스",
+        "Speaker-intent": "자신의 입장을 뻔뻔하게 설명함.",
+        "Tone&Emotion": "뻔뻔한, 도전적인",
+        "Translation-notes": "뻔뻔함과 도전적인 어조를 유지할 것."
+    },
+    {
+        "line": "\"도망칠 곳은 없다. 네놈을 잡아 훔쳐간 파편을 뽑아내주마.\"",
+        "Speaker-information": "오보르 브로코슬락",
+        "Speaker-intent": "한스를 잡아 파편을 회수하겠다고 결심함.",
+        "Tone&Emotion": "결의에 찬, 위협적인",
+        "Translation-notes": "결의와 위협적인 어조를 유지할 것."
+    },
+    {
+        "line": "[크크큭.... 너희는 나를 잡을 수 없다. 오늘은 여기서 물러가 주지.]",
+        "Speaker-information": "한스",
+        "Speaker-intent": "상황을 피하기 위해 허세를 부림.",
+        "Tone&Emotion": "허세 부리는, 도전적인",
+        "Translation-notes": "허세와 도전적인 어조를 유지할 것."
+    },
+    {
+        "line": "[기억해 둬라. 나는 역천의 서약의 한스! 안온한 새벽에 소리 없이 다가가 심장을 꿰뚫는 말뚝이니! 그 무력함을 한탄하라. 내가 바로 너희들의 죽음이다!]",
+        "Speaker-information": "한스",
+        "Speaker-intent": "상대에게 경고하며 자신을 과시함.",
+        "Tone&Emotion": "과시하는, 위협적인",
+        "Translation-notes": "과시와 위협적인 어조를 유지할 것."
+    },
+    {
+        "line": "[나는 다시 돌아온다.]",
+        "Speaker-information": "한스",
+        "Speaker-intent": "상황에서 물러나며 다시 돌아오겠다고 선언함.",
+        "Tone&Emotion": "결의에 찬, 위협적인",
+        "Translation-notes": "결의와 위협적인 어조를 유지할 것."
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "Sound-effect":"ㅡ화아악!",
+        "Context-before":"헥토르는 숨을 훅 몰아쉬며 왼손의 검을 놓았다.",
+        "Context-after":"돌풍과 함께 유진의 몸이 하늘로 떠올랐다.",
+        "Description":"강한 바람이 몰아치는 소리"
+    },
+    {
+        "Sound-effect":"파직!",
+        "Context-before":"유진은 새빨간 불씨를 흘리며 달려가는 헥토르의 등을 노려보았다.",
+        "Context-after":"번개불꽃이 퍼져나갔다.",
+        "Description":"번개 또는 전기가 방전되는 소리. 화재의 위험이 있을 수 있음"
+    }
+]

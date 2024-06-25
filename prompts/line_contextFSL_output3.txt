@@ -1,0 +1,100 @@
+[
+    {
+        "line": "-커어어어어어엇······!",
+        "Speaker-information": "송정우 피디",
+        "Speaker-intent": "촬영을 종료함.",
+        "Tone&Emotion": "길게 늘어지는, 몽롱한",
+        "Translation-notes": "실제로는 단호한 어조이지만, 이를 듣는 정서훈의 입장에서는 몰입 상태에서 벗어나는 듯한 느낌을 줄 수 있도록 길게 늘어지는 느낌으로 번역할 것"
+    },
+    {
+        "line": "'병사, 절대로 포기하지 마라. 모두가 너의 억울함을 믿고 있다.'",
+        "Speaker-information": "정서훈의 상관",
+        "Speaker-intent": "격려하고 위로함.",
+        "Tone&Emotion": "격려하는, 따뜻한",
+        "Translation-notes": "격려와 위로, 그리고 신뢰의 어조를 유지할 것."
+    },
+    {
+        "line": "\"잘했어요. 잘했어.\"",
+        "Speaker-information": "송정우 피디",
+        "Speaker-intent": "정서훈을 칭찬함.",
+        "Tone&Emotion": "칭찬하는, 만족한",
+        "Translation-notes": "칭찬과 만족의 어조를 유지할 것."
+    },
+    {
+        "line": "\"나, 많이 안 바랍니다. 딱 지금처럼만, 오늘 했던 포텐으로만 해요. 그럼 내가 멱살 잡고 스타 배우 만들어줄게요.\"",
+        "Speaker-information": "송정우 피디",
+        "Speaker-intent": "정서훈에게 격려와 목표를 제시함.",
+        "Tone&Emotion": "격려하는, 야망찬",
+        "Translation-notes": "격려와 야망의 어조를 유지할 것."
+    },
+    {
+        "line": "\"피디님. 서운합니다. 저는요?\"",
+        "Speaker-information": "차도진",
+        "Speaker-intent": "농담하며 불만을 표현함.",
+        "Tone&Emotion": "농담하는, 가벼운",
+        "Translation-notes": "농담과 가벼운 어조를 유지할 것."
+    },
+    {
+        "line": "\"아, 우리 차도진 배우님이야 이미 톱스타인데 내가 뭘 더 어떻게 해? 반대로 차도진 씨가 멱살 잡고 나 톱피디 만들어줘야 하는 거 아닌가?\"",
+        "Speaker-information": "송정우 피디",
+        "Speaker-intent": "농담으로 응수함.",
+        "Tone&Emotion": "농담하는, 유쾌한",
+        "Translation-notes": "농담과 유쾌한 어조를 유지할 것."
+    },
+    {
+        "line": "\"도진아. 진짜 다시 봤다. 좀 평탄한 부분이라서 솔직히 무난하게 할 줄 알았는데, 제대로 힘주고 하더라?\"",
+        "Speaker-information": "차도진의 매니저",
+        "Speaker-intent": "차도진의 연기를 칭찬함.",
+        "Tone&Emotion": "칭찬하는, 놀란",
+        "Translation-notes": "칭찬과 놀람의 어조를 유지할 것."
+    },
+    {
+        "line": "\"씬 중에서 평탄한 게 어딨어. 카메라 켜지고, 꺼질 때까지는 다 똑같이 중요한 씬이고 파트고 무대라고.\"",
+        "Speaker-information": "차도진",
+        "Speaker-intent": "연기에 대한 진지한 태도를 설명함.",
+        "Tone&Emotion": "진지한, 프로페셔널한",
+        "Translation-notes": "진지함과 프로페셔널한 어조를 유지할 것."
+    },
+    {
+        "line": "\"역시 톱스타 차도진 씨. 내 마음이 아주 다 흡족합니다. 그나저나 둘이 합이 아주 잘 맞네요. 2화 만에 헤어져야 한다는 게 마음이 다 아파요.\"",
+        "Speaker-information": "차도진의 매니저",
+        "Speaker-intent": "차도진과 상대 배우의 호흡을 칭찬함.",
+        "Tone&Emotion": "칭찬하는, 아쉬운",
+        "Translation-notes": "칭찬과 아쉬움을 담아 번역할 것."
+    },
+    {
+        "line": "\"정말 2화 만에 저희 갈라놓을 겁니까, 피디님?\"",
+        "Speaker-information": "차도진",
+        "Speaker-intent": "정서훈이 연기하는 배역, 이진욱이 사건의 진범이라는 의심이 든 이후 이진욱 배역이 드라마 2화만에 하차할 것이라는 공식 정보에 대해 의구심이 들어 이를 피디에게 물어봄",
+        "Tone&Emotion": "궁금한, 약간 의심스러운",
+        "Translation-notes": "궁금함과 미심쩍음을 담아 번역할 것."
+    },
+    {
+        "line": "\"내가 무슨 권한이 있나? 나야 대본이 시키는 대로 할 뿐이지.\"",
+        "Speaker-information": "송정우 피디",
+        "Speaker-intent": "차도진의 날카로운 질문을 스리슬쩍 회피함",
+        "Tone&Emotion": "능청스러운",
+        "Translation-notes": "능청스러운 어조를 유지할 것."
+    },
+    {
+        "line": "\"그러니까 대본이 나중에도 계속 그렇게 시키냐고요, 피디님.\"",
+        "Speaker-information": "차도진",
+        "Speaker-intent": "능청스럽게 대답하는 피디가 의심스러워 집중적으로 추궁함",
+        "Tone&Emotion": "추궁하는",
+        "Translation-notes": "집요하게 추궁하는 어조로 번역할 것."
+    },
+    {
+        "line": "\"어, 음. 일단 잠깐 쉬면서 모니터링 좀 합시다.\"",
+        "Speaker-information": "송정우 피디",
+        "Speaker-intent": "잠시 휴식을 제안함.",
+        "Tone&Emotion": "제안하는, 중립적인",
+        "Translation-notes": "제안과 중립적인 어조를 유지할 것."
+    },
+    {
+        "line": "\"네. 저도 어떻게 나왔는지 한번 보고 싶습니다.\"",
+        "Speaker-information": "차도진",
+        "Speaker-intent": "촬영 결과를 궁금해함.",
+        "Tone&Emotion": "궁금한, 기대하는",
+        "Translation-notes": "궁금함과 기대를 담아 번역할 것."
+    }
+]

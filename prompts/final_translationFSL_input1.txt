@@ -1,0 +1,50 @@
+###glossary: must be reflected for consistent translation(EXAMPLE)###
+[{'Korean': '시안', 'English': 'Cyan'}, {'Korean': '라이언하트', 'English': 'Lionheart'}, {'Korean': '제하드', 'English': 'Jehad'}, {'Korean': '니나', 'English': 'Nina'}, {'Korean': '베르무트', 'English': 'Vermouth'}, {'Korean': '연무장', 'English': 'Training Hall'}, {'Korean': '혈계식', 'English': 'Bloodline Ceremony'}, {'Korean': '본가', 'English': 'Main Family'}, {'Korean': '방계', 'English': 'Branch Family'}]
+
+###Korean webnovel with tag prompting: need to be translated(EXAMPLE)###
+방금 전까지는 놀라서 입을 벌리고 있던 주제에. 시안은 얼굴을 일그러트리며 역정을 냈다. 방계의 아이는 혈계식 전까지 마나를 수련해선 안 된다. 그건 오랫동안 내려 온 라이언하트 가문의 전통이었다. 일찍이부터 마나를 수련하고 진짜 무기를 취할 수 있는 것은 오직 본가의 아이들 뿐이다. 
+
+눈앞에서 전통이 짓밟혔다. 이제는 단순한 심술과 화풀이로 상대할 수는 없는 일이었다.
+
+<line speaker-information="유진" speaker-intent="시안의 의심에 대해 무심하게 대답함." tone&emotion="무심한, 시큰둥한" translation-notes="무심하고 시큰둥한 어조를 유지할 것." *Don't mention directly, just let it guide your translation*>“수련 안 했는데?”</line>
+
+유진은 시큰둥한 표정으로 대답했다. 거짓말이 아니었다. 마나 수련이야 아장아장 기어 다닐 적부터 할 수 있었지만, 하지 않았다. 
+
+괜히 아버지인 제하드를 곤란하게 만들고 싶지도 않았거니와, 기왕 베르무트의 후손으로 환생했으니 놈의 마나수련법을 써보고 싶단 욕심 때문이었다.
+
+<line speaker-information="시안" speaker-intent="유진의 대답에 분노와 의심을 표현함." tone&emotion="분노한, 의심스러운" translation-notes="분노와 의심을 강조할 것." *Don't mention directly, just let it guide your translation*>“뻔히 보이는 거짓말을...! 마나수련도 안 했으면서 어떻게 그 무게를 감당할 수 있다는 거야?!”</line>
+
+<line speaker-information="유진" speaker-intent="시안의 의심에 대해 태연하게 대답함." tone&emotion="태연한" translation-notes="태연한 어조를 유지할 것." *Don't mention directly, just let it guide your translation*>“일곱 살부터 하니까 되더라.”</line>
+
+<line speaker-information="시안" speaker-intent="유진의 말에 대해 강하게 부정함." tone&emotion="분노한, 부정적인" translation-notes="강한 부정의 어조를 유지
+할 것." *Don't mention directly, just let it guide your translation*>“거짓말하지 마!”</line>
+
+<line speaker-information="유진" speaker-intent="시안의 의심에 대해 도발적으로 응수함." tone&emotion="도발적인, 무심한" translation-notes="도발적이고 무심한 어조를 유지할 것." *Don't mention directly, just let it guide your translation*>“네가 해본 것도 아니면서 왜 자꾸 거짓말이래. 정 의심되면 결투로 확인해 보던가.”</line>
+
+유진은 바닥에 주저앉아서 창의 모래주머니를 풀었다. 그 광경을 부릅뜬 눈으로 보고 있던 시안은 동생의 기대어린 시선을 느꼈다. 어쩔 줄 몰라 하며 겁에 질린 니나의 시선도 느꼈다. 별채의 시종들도 연무장의 소란에 관심을 보이며 창가쪽을 서성이고 있었다. 
+
+먼저 결투를 입에 담은 것은 시안이었다. 먼저 손수건을 꺼낸 것도 시안이었고, 싫다는 유진을 붙들고서 명예를 운운한 것도 시안이었다. 그러니 이제 와서 물러설 수도 없었거니와, 방계 주제에 혈계식 전에 마나를 수련했다는 죄까지 더해졌다.
+
+그러니 징벌해야 한다. 여기서 입 닫고 물러섰다간, 동생은 며칠 정도가 아니라 평생을 놀려먹을 것이 분명했다. 일단. 시안은 주변에 떨어져 있던 목검을 주워들었다. 아까까지 유진이 휘두르던 목검이었다.
+
+<line speaker-information="시안" speaker-intent="유진의 도발에 결투를 선언함." tone&emotion="결연한, 분노한" translation-notes="결연하고 분노한 어조를 유지할 것." *Don't mention directly, just let it guide your translation*>“...결투다!”</line>
+
+시안은 고함을 지르며 유진에게 손수건을 던졌다. 날아간 손수건이 유진의 어깨에 떨어진다. 그 즈음에야 유진은 창대에 매달았던 모래주머니를 다 풀어 낼 수 있었다. 
+
+<line speaker-information="유진" speaker-intent="시안의 결투 선언을 받아들임." tone&emotion="침착한, 결연한" translation-notes="침착하고 결연한 어조를 유지할 것." *Don't mention directly, just let it guide your translation*>“받아들인다.”</line>
+
+유진은 고개를 끄덕거리며 몸을 일으켰다.
+
+시안은 생전 처음 벌이는 결투에 흥분했다. 손수건을 던지기 직전, 던진 후. 시안의 심장은 흥분으로 쿵쾅대며 뛰었다. 건방진데다, 가문의 전통을 무시한 죄인. 놈을  어찌 벌해야 할까? 어떻게 혼쭐을 내주어야 동생이 오빠의 훌륭함에 감탄할까.
+
+그런 생각이 뚝 끊어진다.
+
+유진은 일어서는 것과 동시에 창을 찔렀다.
+
+오른손에 쥔 목검을 의식하며 몇 걸음 뒤로 물러서던 시안은 창의 움직임에 제대로 반응하지 못했다.
+
+<sound-effect description="무언가가 세게 부딪히는 소리. 여기서는 창이 시안의 복부에 강하게 닿는 소리." *Don't mention directly, just let it guide your translation*>뻐억!</sound-effect> 시안의 복부에 창끝이 처박혔다.
+
+<line speaker-information="시안" speaker-intent="유진의 공격에 고통을 표현함." tone&emotion="고통스러운" translation-notes="고통스러운 소리를 명확히 전달할  것." *Don't mention directly, just let it guide your translation*>“꺼억!”</line>
+
+시안은 비명과 함께 땅을 뒹굴었다.

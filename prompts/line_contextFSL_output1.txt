@@ -1,0 +1,37 @@
+[
+    {
+        "line": "\"크억.... 쿨럭!\"",
+        "Speaker-information": "흑마법사",
+        "Speaker-intent": "고통과 약함을 표현함.",
+        "Tone&Emotion": "고통스러운, 약한",
+        "Translation-notes": "피를 토하는 소리, 그리고 기침하는 소리를 명확히 전달할 것."
+    },
+    {
+        "line": "'뭐, 빨아먹을 만큼 다 빨아먹은 것 같고, 이젠 상관없겠지!'",
+        "Speaker-information": "주인공",
+        "Speaker-intent": "이미 충분히 이용해먹은 흑마법사이기에 더이상 살려둘 필요가 없다는 생각을 반영",
+        "Tone&Emotion": "무관심한, 쾌활한",
+        "Translation-notes": "쾌활하면서도 무시하는 어조를 유지할 것."
+    },
+    {
+        "line": "'기습으로 제라프를 죽인 건 정말로 운이 좋았던 거구나!'",
+        "Speaker-information": "주인공",
+        "Speaker-intent": "흑마법사를 상대해보니 예상외로 실력이 상당해서, 기습으로나마 흑마법사인 제라프를 죽일 수 있었던 것은 아주 운이 좋았음을 인정함",
+        "Tone&Emotion": "반성적인, 현실적인",
+        "Translation-notes": "행운과 깨달음의 어조를 전달할 것."
+    },
+    {
+        "line": "'자, 이제 어느 정도 준비는 끝났고, 손님을... 아니, 집을 빼앗은 강도를 맞이해 볼까?'",
+        "Speaker-information": "주인공",
+        "Speaker-intent": "흑마법사 무리의 수장과의 대결 준비를 함.",
+        "Tone&Emotion": "결의에 찬, 약간의 빈정거림",
+        "Translation-notes": "결의에 찬 어조와 약간의 빈정거림을 유지할 것."
+    },
+    {
+        "line": "\"네놈... 네놈이 감히...!\"",
+        "Speaker-information": "흑마법사의 수장, 말콤",
+        "Speaker-intent": "아무것도 아닌 주인공 때문에 원대한 계획이 어그러져서 매우 분노함",
+        "Tone&Emotion": "매우 분노한",
+        "Translation-notes": "분노해서 치가 떨리는 듯한 어조를 유지할 것."
+    }
+]

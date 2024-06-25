@@ -1,0 +1,46 @@
+[
+    {
+    "Korean": "유진",
+    "English": "Eugene"
+    },
+    {
+    "Korean": "하멜",
+    "English": "Hamel"
+    },
+    {
+    "Korean": "베르무트",
+    "English": "Vermouth"
+    },
+    {
+    "Korean": "헥토르",
+    "English": "Hector"
+    },
+    {
+    "Korean": "아카샤",
+    "English": "Akasha"
+    },
+    {
+    "Korean": "메르",
+    "English": "Mer"
+    },
+    {
+    "Korean": "템페스트",
+    "English": "Tempest"
+    },
+    {
+    "Korean": "백염식",
+    "English": "Baekyeom Skill"
+    },
+    {
+    "Korean": "이그니션",
+    "English": "Ignition"
+    },
+    {
+    "Korean": "마나수련법",
+    "English": "Mana Training Method"
+    },
+    {
+    "Korean": "정령왕",
+    "English": "Spirit King"
+    }
+]
