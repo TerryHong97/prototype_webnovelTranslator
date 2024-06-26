@@ -201,8 +201,21 @@ def create_prompt_for_final_translation():
 
     return final_prompt
 
+def replace_korean_with_english(input_text, glossary):
+    output_text = input_text
+
+    # 각 용어에 대해 치환 수행
+    for item in glossary:
+        korean = item['Korean']
+        english = item['English']
+        output_text = output_text.replace(korean, english)
+
+    return output_text
+
 @st.cache_data(show_spinner=True)
-def final_translation(input_txt):
+def final_translation(input_txt, glossary):
+
+    input_txt = replace_korean_with_english(input_txt, glossary)
 
     final_prompt = create_prompt_for_final_translation()
     model = generate_model(st.session_state["OPENAI_API_KEY"])
@@ -245,7 +258,7 @@ with col_right:
     else:
         button_final_translate = st.button("최종 번역 시작")
         if button_final_translate:
-            st.session_state["Final_Translation"] = final_translation(st.session_state["Tag_Prompted_Text"])
+            st.session_state["Final_Translation"] = final_translation(st.session_state["Tag_Prompted_Text"], st.session_state["Info_1_Glossary"])
         
         with st.container(height=600):
             st.write(st.session_state["Final_Translation"])
