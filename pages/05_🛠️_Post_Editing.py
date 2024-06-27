@@ -61,7 +61,7 @@ show_original_text, show_translated_text = st.columns(2)
 with show_original_text:
     st.header("웹소설 원문")
     with st.container(height=620):
-        st.text(st.session_state["Original_Text"])
+        st.write(st.session_state["Original_Text"])
 
 with show_translated_text:
     st.header("웹소설 번역문")

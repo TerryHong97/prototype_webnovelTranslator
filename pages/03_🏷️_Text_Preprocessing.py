@@ -197,20 +197,6 @@ with col_right:
             st.session_state["Tag_Prompted_Text_with_glossary"] = editing_preprocessed_text
             st.success("수정 완료!")
 
-    # with st.container(height=600):
-    #     st.write(st.session_state["Tag_Prompted_Text_with_glossary"])
-
-# with show_translated_text:
-#     st.header("웹소설 번역문")
-#     with st.form("edit_translated_text"):
-#         editing_translated_text = st.text_area(label="번역본 수정", 
-#                                                label_visibility="collapsed", 
-#                                                value=st.session_state["Final_Translation"],
-#                                                height=600)
-#         submitted = st.form_submit_button("수정하기")
-#         if submitted:
-#             st.session_state["Final_Translation"] = editing_translated_text
-#             st.success("번역본 수정 완료!")
 
 
 show_glossary, show_sound_effect, show_line_context = st.columns(3)

@@ -132,7 +132,7 @@ col_left, col_right = st.columns(2)
 with col_left:
     st.header("웹소설 원문")
     with st.container(height=675):
-        st.text(st.session_state["Original_Text"])
+        st.write(st.session_state["Original_Text"])
 
 
 with col_right:
