@@ -53,10 +53,11 @@ with col_left:
     uploaded_webnovel = st.file_uploader("웹소설 파일을 업로드 해주세요.")
     if uploaded_webnovel is not None:
         webnovel_text = uploaded_webnovel.read().decode('utf-8')
+        webnovel_text = webnovel_text.replace('\n', '\n\n')
         st.session_state["Original_Text"] = webnovel_text
 
     with st.container(height=550):
-        st.text(st.session_state["Original_Text"])
+        st.write(st.session_state["Original_Text"])
 
 with col_right:
     uploaded_glossary = st.file_uploader("반영할 용어집을 업로드 해주세요.")
