@@ -190,7 +190,7 @@ def create_prompt_for_line_context():
 
     return final_prompt
 
-@st.cache_data(show_spinner=True)
+#@st.cache_data(show_spinner=True)
 def glossary_step1_generate_draft(input_txt):
 
     final_prompt = create_prompt_for_glossary()
@@ -221,7 +221,7 @@ def add_status_to_json(json_data):
         item["status"] = "new"
     return json_data
 
-@st.cache_data(show_spinner=True)
+#@st.cache_data(show_spinner=True)
 def sound_effect_generate_info(input_txt):
 
     final_prompt = create_prompt_for_sound_effect()
@@ -234,7 +234,7 @@ def sound_effect_generate_info(input_txt):
 
     return sound_effect_info
 
-@st.cache_data(show_spinner=True)
+#@st.cache_data(show_spinner=True)
 def line_context_generate_info(input_txt):
     final_prompt = create_prompt_for_line_context()
     model = generate_model(st.session_state["OPENAI_API_KEY"])
